@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <general>
+    <scene frame_duration="83" framerate="30.0" height="600" width="800"/>
+  </general>
+  <objects>
+    <object color_B="118" color_G="81" color_R="231" id="0">
+      <keyframes>
+        <frame number="18">
+          <anchor_point x="0" y="0"/>
+          <position x="305" y="171"/>
+          <size sizeH="61" sizeW="61"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="19">
+          <anchor_point x="0" y="0"/>
+          <position x="304" y="163"/>
+          <size sizeH="60" sizeW="60"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="20">
+          <anchor_point x="0" y="0"/>
+          <position x="313" y="153"/>
+          <size sizeH="62" sizeW="62"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="21">
+          <anchor_point x="0" y="0"/>
+          <position x="356" y="130"/>
+          <size sizeH="71" sizeW="71"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="22">
+          <anchor_point x="0" y="0"/>
+          <position x="425" y="101"/>
+          <size sizeH="85" sizeW="85"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="23">
+          <anchor_point x="0" y="0"/>
+          <position x="486" y="74"/>
+          <size sizeH="97" sizeW="97"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="24">
+          <anchor_point x="0" y="0"/>
+          <position x="522" y="70"/>
+          <size sizeH="104" sizeW="104"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="25">
+          <anchor_point x="0" y="0"/>
+          <position x="540" y="74"/>
+          <size sizeH="108" sizeW="108"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="26">
+          <anchor_point x="0" y="0"/>
+          <position x="549" y="88"/>
+          <size sizeH="109" sizeW="109"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="27">
+          <anchor_point x="0" y="0"/>
+          <position x="555" y="110"/>
+          <size sizeH="111" sizeW="111"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="28">
+          <anchor_point x="0" y="0"/>
+          <position x="564" y="168"/>
+          <size sizeH="112" sizeW="112"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="29">
+          <anchor_point x="0" y="0"/>
+          <position x="570" y="249"/>
+          <size sizeH="114" sizeW="114"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="30">
+          <anchor_point x="0" y="0"/>
+          <position x="565" y="308"/>
+          <size sizeH="113" sizeW="113"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="31">
+          <anchor_point x="0" y="0"/>
+          <position x="541" y="345"/>
+          <size sizeH="108" sizeW="108"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="32">
+          <anchor_point x="0" y="0"/>
+          <position x="504" y="384"/>
+          <size sizeH="100" sizeW="100"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="33">
+          <anchor_point x="0" y="0"/>
+          <position x="467" y="399"/>
+          <size sizeH="93" sizeW="93"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="34">
+          <anchor_point x="0" y="0"/>
+          <position x="399" y="382"/>
+          <size sizeH="79" sizeW="79"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="35">
+          <anchor_point x="0" y="0"/>
+          <position x="284" y="288"/>
+          <size sizeH="56" sizeW="56"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="36">
+          <anchor_point x="0" y="0"/>
+          <position x="242" y="230"/>
+          <size sizeH="48" sizeW="48"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="37">
+          <anchor_point x="0" y="0"/>
+          <position x="175" y="48"/>
+          <size sizeH="35" sizeW="35"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="38">
+          <anchor_point x="0" y="0"/>
+          <position x="171" y="23"/>
+          <size sizeH="34" sizeW="34"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="39">
+          <anchor_point x="0" y="0"/>
+          <position x="171" y="20"/>
+          <size sizeH="34" sizeW="34"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="40">
+          <anchor_point x="0" y="0"/>
+          <position x="171" y="19"/>
+          <size sizeH="34" sizeW="34"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="41">
+          <anchor_point x="0" y="0"/>
+          <position x="171" y="19"/>
+          <size sizeH="34" sizeW="34"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="42">
+          <anchor_point x="0" y="0"/>
+          <position x="171" y="21"/>
+          <size sizeH="34" sizeW="34"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="43">
+          <anchor_point x="0" y="0"/>
+          <position x="185" y="46"/>
+          <size sizeH="37" sizeW="37"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="44">
+          <anchor_point x="0" y="0"/>
+          <position x="213" y="97"/>
+          <size sizeH="42" sizeW="42"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="45">
+          <anchor_point x="0" y="0"/>
+          <position x="229" y="122"/>
+          <size sizeH="45" sizeW="45"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="46">
+          <anchor_point x="0" y="0"/>
+          <position x="281" y="169"/>
+          <size sizeH="56" sizeW="56"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="47">
+          <anchor_point x="0" y="0"/>
+          <position x="315" y="182"/>
+          <size sizeH="63" sizeW="63"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="48">
+          <anchor_point x="0" y="0"/>
+          <position x="332" y="184"/>
+          <size sizeH="66" sizeW="66"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="49">
+          <anchor_point x="0" y="0"/>
+          <position x="374" y="190"/>
+          <size sizeH="74" sizeW="74"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="50">
+          <anchor_point x="0" y="0"/>
+          <position x="406" y="191"/>
+          <size sizeH="81" sizeW="81"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="51">
+          <anchor_point x="0" y="0"/>
+          <position x="432" y="186"/>
+          <size sizeH="86" sizeW="86"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="52">
+          <anchor_point x="0" y="0"/>
+          <position x="454" y="177"/>
+          <size sizeH="90" sizeW="90"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="53">
+          <anchor_point x="0" y="0"/>
+          <position x="463" y="170"/>
+          <size sizeH="92" sizeW="92"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="54">
+          <anchor_point x="0" y="0"/>
+          <position x="478" y="152"/>
+          <size sizeH="95" sizeW="95"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="55">
+          <anchor_point x="0" y="0"/>
+          <position x="493" y="133"/>
+          <size sizeH="98" sizeW="98"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="56">
+          <anchor_point x="0" y="0"/>
+          <position x="508" y="116"/>
+          <size sizeH="101" sizeW="101"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="57">
+          <anchor_point x="0" y="0"/>
+          <position x="520" y="109"/>
+          <size sizeH="104" sizeW="104"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="58">
+          <anchor_point x="0" y="0"/>
+          <position x="532" y="109"/>
+          <size sizeH="106" sizeW="106"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="59">
+          <anchor_point x="0" y="0"/>
+          <position x="550" y="115"/>
+          <size sizeH="110" sizeW="110"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="60">
+          <anchor_point x="0" y="0"/>
+          <position x="572" y="147"/>
+          <size sizeH="114" sizeW="114"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="61">
+          <anchor_point x="0" y="0"/>
+          <position x="597" y="209"/>
+          <size sizeH="119" sizeW="119"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="62">
+          <anchor_point x="0" y="0"/>
+          <position x="603" y="261"/>
+          <size sizeH="120" sizeW="120"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="63">
+          <anchor_point x="0" y="0"/>
+          <position x="602" y="290"/>
+          <size sizeH="120" sizeW="120"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="64">
+          <anchor_point x="0" y="0"/>
+          <position x="587" y="310"/>
+          <size sizeH="117" sizeW="117"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="65">
+          <anchor_point x="0" y="0"/>
+          <position x="569" y="321"/>
+          <size sizeH="113" sizeW="113"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="66">
+          <anchor_point x="0" y="0"/>
+          <position x="543" y="332"/>
+          <size sizeH="108" sizeW="108"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="67">
+          <anchor_point x="0" y="0"/>
+          <position x="508" y="333"/>
+          <size sizeH="101" sizeW="101"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="68">
+          <anchor_point x="0" y="0"/>
+          <position x="474" y="325"/>
+          <size sizeH="94" sizeW="94"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="69">
+          <anchor_point x="0" y="0"/>
+          <position x="444" y="309"/>
+          <size sizeH="88" sizeW="88"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="70">
+          <anchor_point x="0" y="0"/>
+          <position x="416" y="284"/>
+          <size sizeH="83" sizeW="83"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="71">
+          <anchor_point x="0" y="0"/>
+          <position x="391" y="244"/>
+          <size sizeH="78" sizeW="78"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="72">
+          <anchor_point x="0" y="0"/>
+          <position x="381" y="215"/>
+          <size sizeH="76" sizeW="76"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="73">
+          <anchor_point x="0" y="0"/>
+          <position x="373" y="178"/>
+          <size sizeH="74" sizeW="74"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="74">
+          <anchor_point x="0" y="0"/>
+          <position x="360" y="143"/>
+          <size sizeH="72" sizeW="72"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="75">
+          <anchor_point x="0" y="0"/>
+          <position x="338" y="114"/>
+          <size sizeH="67" sizeW="67"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="76">
+          <anchor_point x="0" y="0"/>
+          <position x="306" y="93"/>
+          <size sizeH="61" sizeW="61"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="77">
+          <anchor_point x="0" y="0"/>
+          <position x="275" y="81"/>
+          <size sizeH="55" sizeW="55"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="78">
+          <anchor_point x="0" y="0"/>
+          <position x="261" y="78"/>
+          <size sizeH="52" sizeW="52"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="79">
+          <anchor_point x="0" y="0"/>
+          <position x="228" y="72"/>
+          <size sizeH="45" sizeW="45"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="80">
+          <anchor_point x="0" y="0"/>
+          <position x="180" y="70"/>
+          <size sizeH="36" sizeW="36"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="81">
+          <anchor_point x="0" y="0"/>
+          <position x="149" y="70"/>
+          <size sizeH="29" sizeW="29"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="82">
+          <anchor_point x="0" y="0"/>
+          <position x="122" y="69"/>
+          <size sizeH="24" sizeW="24"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="83">
+          <anchor_point x="0" y="0"/>
+          <position x="101" y="65"/>
+          <size sizeH="20" sizeW="20"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+      </keyframes>
+    </object>
+    <object color_B="202" color_G="224" color_R="108" id="1">
+      <keyframes>
+        <frame number="18">
+          <anchor_point x="0" y="0"/>
+          <position x="495" y="429"/>
+          <size sizeH="85" sizeW="61"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="19">
+          <anchor_point x="0" y="0"/>
+          <position x="496" y="437"/>
+          <size sizeH="81" sizeW="60"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="20">
+          <anchor_point x="0" y="0"/>
+          <position x="487" y="447"/>
+          <size sizeH="76" sizeW="62"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="21">
+          <anchor_point x="0" y="0"/>
+          <position x="444" y="470"/>
+          <size sizeH="65" sizeW="71"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="22">
+          <anchor_point x="0" y="0"/>
+          <position x="375" y="499"/>
+          <size sizeH="50" sizeW="85"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="23">
+          <anchor_point x="0" y="0"/>
+          <position x="314" y="526"/>
+          <size sizeH="37" sizeW="97"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="24">
+          <anchor_point x="0" y="0"/>
+          <position x="278" y="530"/>
+          <size sizeH="35" sizeW="104"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="25">
+          <anchor_point x="0" y="0"/>
+          <position x="260" y="526"/>
+          <size sizeH="37" sizeW="108"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="26">
+          <anchor_point x="0" y="0"/>
+          <position x="251" y="512"/>
+          <size sizeH="44" sizeW="109"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="27">
+          <anchor_point x="0" y="0"/>
+          <position x="245" y="490"/>
+          <size sizeH="55" sizeW="111"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="28">
+          <anchor_point x="0" y="0"/>
+          <position x="236" y="432"/>
+          <size sizeH="84" sizeW="112"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="29">
+          <anchor_point x="0" y="0"/>
+          <position x="230" y="351"/>
+          <size sizeH="124" sizeW="114"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="30">
+          <anchor_point x="0" y="0"/>
+          <position x="235" y="292"/>
+          <size sizeH="154" sizeW="113"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="31">
+          <anchor_point x="0" y="0"/>
+          <position x="259" y="255"/>
+          <size sizeH="172" sizeW="108"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="32">
+          <anchor_point x="0" y="0"/>
+          <position x="296" y="216"/>
+          <size sizeH="192" sizeW="100"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="33">
+          <anchor_point x="0" y="0"/>
+          <position x="333" y="201"/>
+          <size sizeH="199" sizeW="93"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="34">
+          <anchor_point x="0" y="0"/>
+          <position x="401" y="218"/>
+          <size sizeH="191" sizeW="79"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="35">
+          <anchor_point x="0" y="0"/>
+          <position x="516" y="312"/>
+          <size sizeH="144" sizeW="56"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="36">
+          <anchor_point x="0" y="0"/>
+          <position x="558" y="370"/>
+          <size sizeH="115" sizeW="48"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="37">
+          <anchor_point x="0" y="0"/>
+          <position x="625" y="552"/>
+          <size sizeH="24" sizeW="35"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="38">
+          <anchor_point x="0" y="0"/>
+          <position x="629" y="577"/>
+          <size sizeH="11" sizeW="34"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="39">
+          <anchor_point x="0" y="0"/>
+          <position x="629" y="580"/>
+          <size sizeH="10" sizeW="34"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="40">
+          <anchor_point x="0" y="0"/>
+          <position x="629" y="581"/>
+          <size sizeH="9" sizeW="34"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="41">
+          <anchor_point x="0" y="0"/>
+          <position x="629" y="581"/>
+          <size sizeH="9" sizeW="34"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="42">
+          <anchor_point x="0" y="0"/>
+          <position x="629" y="579"/>
+          <size sizeH="10" sizeW="34"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="43">
+          <anchor_point x="0" y="0"/>
+          <position x="615" y="554"/>
+          <size sizeH="23" sizeW="37"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="44">
+          <anchor_point x="0" y="0"/>
+          <position x="587" y="503"/>
+          <size sizeH="48" sizeW="42"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="45">
+          <anchor_point x="0" y="0"/>
+          <position x="571" y="478"/>
+          <size sizeH="61" sizeW="45"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="46">
+          <anchor_point x="0" y="0"/>
+          <position x="519" y="431"/>
+          <size sizeH="84" sizeW="56"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="47">
+          <anchor_point x="0" y="0"/>
+          <position x="485" y="418"/>
+          <size sizeH="91" sizeW="63"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="48">
+          <anchor_point x="0" y="0"/>
+          <position x="468" y="416"/>
+          <size sizeH="92" sizeW="66"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="49">
+          <anchor_point x="0" y="0"/>
+          <position x="426" y="410"/>
+          <size sizeH="95" sizeW="74"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="50">
+          <anchor_point x="0" y="0"/>
+          <position x="394" y="409"/>
+          <size sizeH="95" sizeW="81"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="51">
+          <anchor_point x="0" y="0"/>
+          <position x="368" y="414"/>
+          <size sizeH="93" sizeW="86"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="52">
+          <anchor_point x="0" y="0"/>
+          <position x="346" y="423"/>
+          <size sizeH="88" sizeW="90"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="53">
+          <anchor_point x="0" y="0"/>
+          <position x="337" y="430"/>
+          <size sizeH="85" sizeW="92"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="54">
+          <anchor_point x="0" y="0"/>
+          <position x="322" y="448"/>
+          <size sizeH="76" sizeW="95"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="55">
+          <anchor_point x="0" y="0"/>
+          <position x="307" y="467"/>
+          <size sizeH="66" sizeW="98"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="56">
+          <anchor_point x="0" y="0"/>
+          <position x="292" y="484"/>
+          <size sizeH="58" sizeW="101"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="57">
+          <anchor_point x="0" y="0"/>
+          <position x="280" y="491"/>
+          <size sizeH="54" sizeW="104"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="58">
+          <anchor_point x="0" y="0"/>
+          <position x="268" y="491"/>
+          <size sizeH="54" sizeW="106"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="59">
+          <anchor_point x="0" y="0"/>
+          <position x="250" y="485"/>
+          <size sizeH="57" sizeW="110"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="60">
+          <anchor_point x="0" y="0"/>
+          <position x="228" y="453"/>
+          <size sizeH="73" sizeW="114"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="61">
+          <anchor_point x="0" y="0"/>
+          <position x="203" y="391"/>
+          <size sizeH="104" sizeW="119"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="62">
+          <anchor_point x="0" y="0"/>
+          <position x="197" y="339"/>
+          <size sizeH="130" sizeW="120"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="63">
+          <anchor_point x="0" y="0"/>
+          <position x="198" y="310"/>
+          <size sizeH="145" sizeW="120"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="64">
+          <anchor_point x="0" y="0"/>
+          <position x="213" y="290"/>
+          <size sizeH="155" sizeW="117"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="65">
+          <anchor_point x="0" y="0"/>
+          <position x="231" y="279"/>
+          <size sizeH="160" sizeW="113"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="66">
+          <anchor_point x="0" y="0"/>
+          <position x="257" y="268"/>
+          <size sizeH="166" sizeW="108"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="67">
+          <anchor_point x="0" y="0"/>
+          <position x="292" y="267"/>
+          <size sizeH="166" sizeW="101"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="68">
+          <anchor_point x="0" y="0"/>
+          <position x="326" y="275"/>
+          <size sizeH="162" sizeW="94"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="69">
+          <anchor_point x="0" y="0"/>
+          <position x="356" y="291"/>
+          <size sizeH="154" sizeW="88"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="70">
+          <anchor_point x="0" y="0"/>
+          <position x="384" y="316"/>
+          <size sizeH="142" sizeW="83"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="71">
+          <anchor_point x="0" y="0"/>
+          <position x="409" y="356"/>
+          <size sizeH="122" sizeW="78"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="72">
+          <anchor_point x="0" y="0"/>
+          <position x="419" y="385"/>
+          <size sizeH="107" sizeW="76"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="73">
+          <anchor_point x="0" y="0"/>
+          <position x="427" y="422"/>
+          <size sizeH="89" sizeW="74"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="74">
+          <anchor_point x="0" y="0"/>
+          <position x="440" y="457"/>
+          <size sizeH="71" sizeW="72"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="75">
+          <anchor_point x="0" y="0"/>
+          <position x="462" y="486"/>
+          <size sizeH="57" sizeW="67"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="76">
+          <anchor_point x="0" y="0"/>
+          <position x="494" y="507"/>
+          <size sizeH="46" sizeW="61"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="77">
+          <anchor_point x="0" y="0"/>
+          <position x="525" y="519"/>
+          <size sizeH="40" sizeW="55"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="78">
+          <anchor_point x="0" y="0"/>
+          <position x="539" y="522"/>
+          <size sizeH="39" sizeW="52"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="79">
+          <anchor_point x="0" y="0"/>
+          <position x="572" y="528"/>
+          <size sizeH="36" sizeW="45"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="80">
+          <anchor_point x="0" y="0"/>
+          <position x="620" y="530"/>
+          <size sizeH="35" sizeW="36"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="81">
+          <anchor_point x="0" y="0"/>
+          <position x="651" y="530"/>
+          <size sizeH="35" sizeW="29"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="82">
+          <anchor_point x="0" y="0"/>
+          <position x="678" y="531"/>
+          <size sizeH="34" sizeW="24"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+        <frame number="83">
+          <anchor_point x="0" y="0"/>
+          <position x="699" y="535"/>
+          <size sizeH="32" sizeW="20"/>
+          <scale x_perc="100" y_perc="100"/>
+        </frame>
+      </keyframes>
+    </object>
+  </objects>
+</xml>
