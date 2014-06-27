@@ -82,7 +82,7 @@ class AEkeyFrameExporter {
         
         //WRITE UPDATED ROTATION ANGLE
         XML rot = frame.addChild("rotation");
-        scale.setFloat("theta", degrees(_angle));
+        rot.setFloat("theta", degrees(_angle));
       }
     }
   }
