@@ -13,3 +13,5 @@ Importing a huge amount of objects is a very slow process, be patient!
 
 Q: Why make this?
 A: We needed a workflow where we could use box2D's physics in AE, people that work with the Newton plugin in AE will probably recognize this kind of method.
+
+If you want to read up on AE's scripting check out (PDF) http://blogs.adobe.com/aftereffects/files/2012/06/After-Effects-CS6-Scripting-Guide.pdf?file=2012/06/After-Effects-CS6-Scripting-Guide.pdf
