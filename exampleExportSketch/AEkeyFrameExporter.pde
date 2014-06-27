@@ -52,7 +52,7 @@ class AEkeyFrameExporter {
   }
 
   //UPDATE KEYFRAMES
-  void writeObjectFrames(int _id, PVector _pos, int _sW, int _sH) {
+  void writeObjectFrames(int _id, PVector _pos, int _sW, int _sH, float _angle) {
 
     XML[] children = objs.getChildren("object");
 
@@ -79,6 +79,10 @@ class AEkeyFrameExporter {
         XML scale = frame.addChild("scale");
         scale.setInt("x_perc", (_sW*100)/originalWidth);
         scale.setInt("y_perc", (_sH*100)/originalHeight);
+        
+        //WRITE UPDATED ROTATION ANGLE
+        XML rot = frame.addChild("rotation");
+        scale.setFloat("theta", degrees(_angle));
       }
     }
   }

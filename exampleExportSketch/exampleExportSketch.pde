@@ -40,18 +40,19 @@ void draw() {
 
   if (mousePressed) {
 
-
+    float rotation = map(mouseY,0,height,0,2*PI); 
+    
     //UPDATE AND DISPLAY THE OBJECTS THAT WE ARE EXPORTING
-    obj1.update(mouseX, mouseY, mouseX/5, mouseX/5);
+    obj1.update(mouseX, mouseY, mouseX/5, mouseX/2,rotation);
     obj1.display();  
 
-    obj2.update(width-mouseX, height-mouseY, mouseX/5, mouseY/2);
+    obj2.update(width-mouseX, height-mouseY, mouseX/5, mouseY/2, (2*PI)-rotation);
     obj2.display();
     ////
 
     //WRITE OBJECT DATA TO TO XML FILE - ID, OBJECT POSITION, OBJECT_WIDTH, OBJECT_HEIGHT
-    AEexporter.writeObjectFrames(0, obj1.pos, obj1.sW, obj1.sH);
-    AEexporter.writeObjectFrames(1, obj2.pos, obj2.sW, obj2.sH);
+    AEexporter.writeObjectFrames(0, obj1.pos, obj1.sW, obj1.sH, obj1.angle);
+    AEexporter.writeObjectFrames(1, obj2.pos, obj2.sW, obj2.sH, obj2.angle);
 
 
     fill(0);
