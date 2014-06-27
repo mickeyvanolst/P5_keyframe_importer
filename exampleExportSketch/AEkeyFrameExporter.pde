@@ -6,6 +6,8 @@ class AEkeyFrameExporter {
   XML scn;
   XML kf;
   long initialFrame;
+  int originalWidth;
+  int originalHeight;
 
   AEkeyFrameExporter(int _fRate, int _sceneWidth, int _sceneHeight) {
 
@@ -23,7 +25,7 @@ class AEkeyFrameExporter {
     
   }
 
-  void addObject(int _id, color _color) {
+  void addObject(int _id, color _color, int _sW, int _sH) {
 
     XML obj = objs.addChild("object");
     obj.setInt("id", _id);
@@ -36,8 +38,13 @@ class AEkeyFrameExporter {
     obj.setInt("color_R", red);
     obj.setInt("color_G", green);
     obj.setInt("color_B", blue);
+    obj.setInt("sizeW", _sW);
+    obj.setInt("sizeH", _sH);
     
     kf = obj.addChild("keyframes");
+    
+    originalWidth = _sW;
+    originalHeight = _sH;
   }
 
   void writeObjectData(int _id, PVector _pos, int _sW, int _sH) {
@@ -54,15 +61,14 @@ class AEkeyFrameExporter {
     XML anchorP = frame.addChild("anchor_point");
     anchorP.setInt("x", 0);
     anchorP.setInt("y", 0);
+    
     XML position = frame.addChild("position");
     position.setInt("x", int(_pos.x));
     position.setInt("y", int(_pos.y));
-    XML size = frame.addChild("size");
-    size.setInt("sizeW", _sW);
-    size.setInt("sizeH", _sH);
+    
     XML scale = frame.addChild("scale");
-    scale.setInt("x_perc", 100);
-    scale.setInt("y_perc", 100);
+    scale.setInt("x_perc", (_sW*100)/originalWidth);
+    scale.setInt("y_perc", (_sH*100)/originalHeight);
     }
   }
 }
@@ -71,8 +77,9 @@ class AEkeyFrameExporter {
   void saveOutput() {
 
      scn.setInt("frame_duration", int(frameCount-initialFrame));
-
-    saveXML(xml, "data/objectsInfo.xml");
+     saveXML(xml, "data/objectsInfo.xml");
+     
+     println("successfully exported "+int(frameCount-initialFrame)+" frames");
   }
 }
 

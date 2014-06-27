@@ -23,8 +23,8 @@ void setup() {
   AEexporter = new AEkeyFrameExporter(fRate, width, height);
 
   //ID, COLOR, SIZE_WIDTH, SIZE_HEIGHT
-  AEexporter.addObject(0, obj1.cl);
-  AEexporter.addObject(1, obj2.cl);
+  AEexporter.addObject(0, obj1.cl, 20, 20);
+  AEexporter.addObject(1, obj2.cl, 20, 20);
 }
 
 void draw() {
