@@ -1,3 +1,13 @@
+// Script to export object as keyframes to use in after effects. 
+// All objects(ellipses in this case) properties are stored into a XML as animation keyframes to be used in AE   
+//
+// AE script created by Mick van Olst (POPSURE) and P5 XML export sketch created by João Fonseca.
+// Facilitated by onformative Berlin.
+//
+// June 2014
+//
+
+
 int fRate=30;
 
 //DECLARE AEkeyFrameExporter
