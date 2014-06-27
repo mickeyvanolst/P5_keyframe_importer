@@ -1,4 +1,4 @@
-ae_keyframe_exporter
+P5_keyframe_importer
 ====================
 
 A simple script that can import recorded motion data from Processing into After Effects.
